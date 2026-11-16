@@ -2,7 +2,7 @@
 
 **X API · Twitter API · tweet search with X search operators · tweet replies and quotes · Twitter followers · X trends · X lists and communities.**
 
-Examples for the [okdata](https://okdata.online/?src=gh-x-twitter-api) X (Twitter) API: 20 live endpoints behind one API key, pay per call from $0.0001, and a failed call costs nothing. No X (Twitter) login, no cookies and no browser, so there is no account to get blocked.
+Examples for the [okdata](https://okdata.online/?src=gh-x-twitter-api) X (Twitter) API: 20 live endpoints behind one API key, pay per call from $0.0001. No X (Twitter) login, no cookies and no browser, so there is no account to get blocked.
 
 [Sign up free ($0.10 of trial credit)](https://okdata.online/signup/?src=gh-x-twitter-api) · [All X (Twitter) endpoints](https://okdata.online/apis/x/?src=gh-x-twitter-api) · [Use it from Claude, Cursor or any MCP client](https://okdata.online/mcp/?src=gh-x-twitter-api)
 
@@ -76,9 +76,9 @@ Then ask in plain words, for example "X post search: "claude code" lang:zh". The
 
 **Do I need a X (Twitter) account?** No. The data is public content, fetched on the server; your own account is never involved.
 
-**How is it billed?** Each endpoint has its own price, listed above for one call; endpoints billed per item count what comes back. Failed calls, timeouts included, are free. New accounts get $0.10 to try; after that you top up as you go, with no subscription. Pricing: https://okdata.online/pricing/
+**How is it billed?** Each endpoint has its own price, listed above for one call; endpoints billed per item count what comes back. A call that reached the data source is charged even when it comes back empty, not found or failed (one item for per-item endpoints); calls stopped before reaching a source (bad parameters, balance) are free. New accounts get $0.10 to try; after that you top up as you go, with no subscription. Pricing: https://okdata.online/pricing/
 
-**Do I need an X developer account?** No. One okdata key, no plan to pick: you pay for the calls you make, and nothing for a failed one.
+**Do I need an X developer account?** No. One okdata key, no plan to pick: you pay for the calls you make, and a call refused before it reaches a data source (bad parameters, low balance) costs nothing.
 
 **Can I page through results?** Each page of a list is one call: pass `page.next_cursor` back as `cursor` for the next one. A cursor stays valid for 24 hours.
 
@@ -88,7 +88,7 @@ Then ask in plain words, for example "X post search: "claude code" lang:zh". The
 
 **推特数据 API · X 帖子搜索 · 推文详情和回复 · 推特账号和粉丝 · X 趋势 · X 列表和社群。**
 
-okdata 的X（推特）接口示例：20 个接口在线可用，一个 API Key 调用，按次计费（$0.0001 起），失败不扣费，不用登录平台账号、不用 Cookie。中文文档：https://okdata.online/zh/apis/x/?src=gh-x-twitter-api · 注册：https://okdata.online/zh/signup/?src=gh-x-twitter-api · 接入 AI（MCP）：https://okdata.online/zh/mcp/?src=gh-x-twitter-api
+okdata 的X（推特）接口示例：20 个接口在线可用，一个 API Key 调用，按次计费（$0.0001 起），不用登录平台账号、不用 Cookie。中文文档：https://okdata.online/zh/apis/x/?src=gh-x-twitter-api · 注册：https://okdata.online/zh/signup/?src=gh-x-twitter-api · 接入 AI（MCP）：https://okdata.online/zh/mcp/?src=gh-x-twitter-api
 
 ## License
 
