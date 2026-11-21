@@ -4,7 +4,7 @@
 
 Examples for the [okdata](https://okdata.online/?src=gh-x-twitter-api) X (Twitter) API: 20 live endpoints behind one API key, pay per call from $0.0001. No X (Twitter) login, no cookies and no browser, so there is no account to get blocked.
 
-[Sign up free ($0.10 of trial credit)](https://okdata.online/signup/?src=gh-x-twitter-api) · [All X (Twitter) endpoints](https://okdata.online/apis/x/?src=gh-x-twitter-api) · [Use it from Claude, Cursor or any MCP client](https://okdata.online/mcp/?src=gh-x-twitter-api)
+[Sign up free (free trial: up to 333 calls)](https://okdata.online/signup/?src=gh-x-twitter-api) · [All X (Twitter) endpoints](https://okdata.online/apis/x/?src=gh-x-twitter-api) · [Use it from Claude, Cursor or any MCP client](https://okdata.online/mcp/?src=gh-x-twitter-api)
 
 ## Endpoints
 
@@ -76,7 +76,7 @@ Then ask in plain words, for example "X post search: "claude code" lang:zh". The
 
 **Do I need a X (Twitter) account?** No. The data is public content, fetched on the server; your own account is never involved.
 
-**How is it billed?** Each endpoint has its own price, listed above for one call; endpoints billed per item count what comes back. New accounts get $0.10 to try; after that, top-ups start at $10 and never expire, with no subscription. Pricing: https://okdata.online/pricing/?src=gh-x-twitter-api · Billing details: https://okdata.online/docs/billing/?src=gh-x-twitter-api
+**How is it billed?** Each endpoint has its own price, listed above for one call; endpoints billed per item count what comes back. New accounts get a free trial of up to 333 calls; after that, top-ups start at $10 and never expire, with no subscription. Pricing: https://okdata.online/pricing/?src=gh-x-twitter-api · Billing details: https://okdata.online/docs/billing/?src=gh-x-twitter-api
 
 **Do I need an X developer account?** No. One okdata key and no plan to pick: you pay for the calls you make from a prepaid balance.
 
