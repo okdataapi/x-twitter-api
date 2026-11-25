@@ -47,6 +47,29 @@ The Python version is [examples/quickstart.py](examples/quickstart.py) (standard
 
 Every endpoint answers in the same shape: the list is in `data.items`, `page.next_cursor` goes back as `cursor` for the next page, what the call cost is in `meta.billing.amount`, and a field the platform does not provide is null with the reason in `meta.unavailable`.
 
+Trending topics for one country, no paging, one call:
+
+```bash
+curl -G "https://api.okdata.online/v1/x/trends/list" \
+  -H "Authorization: Bearer $OKDATA_API_KEY" \
+  --data-urlencode 'country=US'
+```
+
+### Real output (run on 2026-11-25)
+
+That call returned 30 US trends. The top five:
+
+```console
+1  #dwts
+2  Tatyana
+3  Amber
+4  Maura
+5  Connor
+cost $0.009
+```
+
+The full response is in [examples/x.trends.list.json](examples/x.trends.list.json) (30 topics with `rank`, `name` and a search link). Trends change by the minute; yours will differ.
+
 ## Use it from AI (MCP)
 
 Claude Code:

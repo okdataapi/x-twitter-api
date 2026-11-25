@@ -1,0 +1,237 @@
+{
+  "code": "ok",
+  "warnings": [],
+  "meta": {
+    "capability": "x.trends.list",
+    "result_status": "complete",
+    "billing": {
+      "amount": "0.009",
+      "currency": "USD",
+      "balance_after": "8.778"
+    },
+    "unavailable": {},
+    "cached": false,
+    "replayed": false,
+    "fetched_at": "2026-11-25T01:55:00.263Z"
+  },
+  "data": {
+    "items": [
+      {
+        "platform": "x",
+        "rank": 1,
+        "name": "#dwts",
+        "heat": null,
+        "url": "https://x.com/search?q=%23dwts"
+      },
+      {
+        "platform": "x",
+        "rank": 2,
+        "name": "Tatyana",
+        "heat": null,
+        "url": "https://x.com/search?q=Tatyana"
+      },
+      {
+        "platform": "x",
+        "rank": 3,
+        "name": "Amber",
+        "heat": null,
+        "url": "https://x.com/search?q=Amber"
+      },
+      {
+        "platform": "x",
+        "rank": 4,
+        "name": "Maura",
+        "heat": null,
+        "url": "https://x.com/search?q=Maura"
+      },
+      {
+        "platform": "x",
+        "rank": 5,
+        "name": "Connor",
+        "heat": null,
+        "url": "https://x.com/search?q=Connor"
+      },
+      {
+        "platform": "x",
+        "rank": 6,
+        "name": "Ezra",
+        "heat": null,
+        "url": "https://x.com/search?q=Ezra"
+      },
+      {
+        "platform": "x",
+        "rank": 7,
+        "name": "Iowa",
+        "heat": null,
+        "url": "https://x.com/search?q=Iowa"
+      },
+      {
+        "platform": "x",
+        "rank": 8,
+        "name": "Carrie Ann",
+        "heat": null,
+        "url": "https://x.com/search?q=Carrie%20Ann"
+      },
+      {
+        "platform": "x",
+        "rank": 9,
+        "name": "#WWENXT",
+        "heat": null,
+        "url": "https://x.com/search?q=%23WWENXT"
+      },
+      {
+        "platform": "x",
+        "rank": 10,
+        "name": "DePaul",
+        "heat": null,
+        "url": "https://x.com/search?q=DePaul"
+      },
+      {
+        "platform": "x",
+        "rank": 11,
+        "name": "#MissUniverse",
+        "heat": null,
+        "url": "https://x.com/search?q=%23MissUniverse"
+      },
+      {
+        "platform": "x",
+        "rank": 12,
+        "name": "Creighton",
+        "heat": null,
+        "url": "https://x.com/search?q=Creighton"
+      },
+      {
+        "platform": "x",
+        "rank": 13,
+        "name": "Kilmar Abrego Garcia",
+        "heat": null,
+        "url": "https://x.com/search?q=Kilmar%20Abrego%20Garcia"
+      },
+      {
+        "platform": "x",
+        "rank": 14,
+        "name": "Happy Thanksgiving",
+        "heat": null,
+        "url": "https://x.com/search?q=Happy%20Thanksgiving"
+      },
+      {
+        "platform": "x",
+        "rank": 15,
+        "name": "Purdue",
+        "heat": null,
+        "url": "https://x.com/search?q=Purdue"
+      },
+      {
+        "platform": "x",
+        "rank": 16,
+        "name": "Myka Lockwood",
+        "heat": null,
+        "url": "https://x.com/search?q=Myka%20Lockwood"
+      },
+      {
+        "platform": "x",
+        "rank": 17,
+        "name": "Mistakenly",
+        "heat": null,
+        "url": "https://x.com/search?q=Mistakenly"
+      },
+      {
+        "platform": "x",
+        "rank": 18,
+        "name": "Guillermo",
+        "heat": null,
+        "url": "https://x.com/search?q=Guillermo"
+      },
+      {
+        "platform": "x",
+        "rank": 19,
+        "name": "Jerzy",
+        "heat": null,
+        "url": "https://x.com/search?q=Jerzy"
+      },
+      {
+        "platform": "x",
+        "rank": 20,
+        "name": "#DancingWiththeStars",
+        "heat": null,
+        "url": "https://x.com/search?q=%23DancingWiththeStars"
+      },
+      {
+        "platform": "x",
+        "rank": 21,
+        "name": "Daniella",
+        "heat": null,
+        "url": "https://x.com/search?q=Daniella"
+      },
+      {
+        "platform": "x",
+        "rank": 22,
+        "name": "#CFPRankings",
+        "heat": null,
+        "url": "https://x.com/search?q=%23CFPRankings"
+      },
+      {
+        "platform": "x",
+        "rank": 23,
+        "name": "Wes Enis",
+        "heat": null,
+        "url": "https://x.com/search?q=Wes%20Enis"
+      },
+      {
+        "platform": "x",
+        "rank": 24,
+        "name": "Jana",
+        "heat": null,
+        "url": "https://x.com/search?q=Jana"
+      },
+      {
+        "platform": "x",
+        "rank": 25,
+        "name": "Sarah Strong",
+        "heat": null,
+        "url": "https://x.com/search?q=Sarah%20Strong"
+      },
+      {
+        "platform": "x",
+        "rank": 26,
+        "name": "Essence Fest",
+        "heat": null,
+        "url": "https://x.com/search?q=Essence%20Fest"
+      },
+      {
+        "platform": "x",
+        "rank": 27,
+        "name": "Boynton",
+        "heat": null,
+        "url": "https://x.com/search?q=Boynton"
+      },
+      {
+        "platform": "x",
+        "rank": 28,
+        "name": "Tyrone Taylor",
+        "heat": null,
+        "url": "https://x.com/search?q=Tyrone%20Taylor"
+      },
+      {
+        "platform": "x",
+        "rank": 29,
+        "name": "Julianne",
+        "heat": null,
+        "url": "https://x.com/search?q=Julianne"
+      },
+      {
+        "platform": "x",
+        "rank": 30,
+        "name": "Mark Ballas",
+        "heat": null,
+        "url": "https://x.com/search?q=Mark%20Ballas"
+      }
+    ]
+  },
+  "page": {
+    "next_cursor": null,
+    "cursor_expires_at": null,
+    "has_more": false,
+    "returned": 30
+  }
+}
